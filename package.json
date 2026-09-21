@@ -1,0 +1,13 @@
+{
+  "name": "derspilot-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DersPilot Android APK build workspace.",
+  "main": "build-apk.js",
+  "scripts": {
+    "build": "node build-apk.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
